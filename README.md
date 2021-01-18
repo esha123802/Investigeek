@@ -1,4 +1,4 @@
-# investigeek
+# Investigeek
 
 A new Flutter project.
 
