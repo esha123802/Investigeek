@@ -2,15 +2,15 @@
 
 An app to help users know latest quotes and news of stocks listed on NYSE and NASDAQ 
 
-## Getting Started
+
 ## How to Use 
 
 **Step 1:**
 
-Download or clone this repo by using the link below:
+Download or clone this repo:
 
 ```
-https://github.com/zubairehman/flutter-boilerplate-project.git
+$ git clone https://github.com/zubairehman/flutter-boilerplate-project.git
 ```
 
 **Step 2:**
@@ -18,7 +18,7 @@ https://github.com/zubairehman/flutter-boilerplate-project.git
 Go to project root and execute the following command in console to get the required dependencies: 
 
 ```
-flutter pub get 
+$ flutter pub get 
 ```
 
 **Step 3:**
@@ -26,7 +26,7 @@ flutter pub get
 Go to project root and execute the following command in console to run the app: 
 
 ```
-flutter run
+$ flutter run
 ```
 
 A few resources to get you started if this is your first Flutter project:
@@ -37,3 +37,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Authors
+
+**Rohit Yelnare** - [RohitYelnare](https://github.com/RohitYelnare)
