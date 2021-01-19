@@ -2,7 +2,7 @@
 
 An app developed to help users know latest quotes and news of stocks listed on NYSE and NASDAQ 
 
-<img src="https://user-images.githubusercontent.com/51207928/105082782-10f76e00-5aba-11eb-9c72-92db925e66a9.jpg" width="184"/> <img src="https://user-images.githubusercontent.com/51207928/105082741-050bac00-5aba-11eb-8681-4702ba48442e.jpg" width="184"/>
+<img src="https://user-images.githubusercontent.com/51207928/105082782-10f76e00-5aba-11eb-9c72-92db925e66a9.jpg" width="184"/> <img src="https://user-images.githubusercontent.com/51207928/105082741-050bac00-5aba-11eb-8681-4702ba48442e.jpg" width="184"/> <img src="https://user-images.githubusercontent.com/51207928/105082826-1fde2080-5aba-11eb-921e-59081084aefe.jpg" width="184"/>
 
 ## How to Use 
 
