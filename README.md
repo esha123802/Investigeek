@@ -40,4 +40,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Authors
 
-**Rohit Yelnare** - [RohitYelnare](https://github.com/RohitYelnare)
+**Rohit Yelnare** - [RohitYelnare](http://rohit.yelnare.com/)
