@@ -163,13 +163,7 @@ Widget isQuote(BuildContext context) {
                   maxWidth: 50,
                   maxHeight: 50,
                 ),
-                child: Image.network(stockinfo[0]['image'])
-                // (!loadImage)
-                //     ? CircularProgressIndicator()
-                //     : (icondiff != 0.0)
-                //         ? Image.network(stockinfo[0]['image'])
-                //         : Icon(Icons.image_not_supported),
-                ),
+                child: Image.network(stockinfo[0]['image'])),
             contentPadding: EdgeInsets.fromLTRB(15.0, 5.0, 15.0, 0.0),
             title: Text(
               "${stockinfo[0]['companyName']}",
