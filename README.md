@@ -11,7 +11,7 @@ An app developed to help users know latest quotes and news of stocks listed on N
 Download or clone this repo:
 
 ```
-$ git clone https://github.com/zubairehman/flutter-boilerplate-project.git
+$ git clone https://github.com/RohitYelnare/Investigeek.git
 ```
 
 **Step 2:**
